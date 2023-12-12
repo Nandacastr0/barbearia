@@ -123,4 +123,5 @@ form label, form legend {
   color: white;
   font-weight: bold;
   font-size: 18px;
+  border: none;
 }
