@@ -137,3 +137,7 @@ form label, form legend {
 table {
   margin: 20px 0 40px;
 }
+
+thead {
+  background: #555555;
+}
