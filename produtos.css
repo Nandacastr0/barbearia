@@ -77,3 +77,9 @@ produtos li:houver h2 {
   font-weigth: bold;
   margin-top: 10px;
 }
+
+footer {
+  text-aling: center;
+  background: url("bg.jpg");
+  padding: 40px 0;
+}
